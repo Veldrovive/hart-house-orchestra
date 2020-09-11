@@ -1,0 +1,66 @@
+<members>
+    <newMembers>
+        <note>Hart House Chamber Strings is a student run ensemble and welcomes current University of Toronto students and non-student members.</note>
+        <note>We will not have any drop-in rehearsals for fall term.</note>
+        <note>There is a membership fee to help pay for room rentals, photocopying, and food before concerts.</note>
+        <!-- <note><![CDATA[If you're interested in joining us, you're welcome to <a href="mailto:chamberstrings@gmail.com"
+            target="_blank">shoot us an email</a>, <a href="https://www.facebook.com/groups/8917508505/">join us on
+            Facebook</a>, or simply just show up at our drop-in rehearsals each year in September! This year, our
+          drop-in rehearsal is on Monday, September 9, 2019, from 7:30 p.m. to 10:00 p.m. in the East Common Room at
+          Hart House.]]></note> -->
+        <feeNote>*“Student” means any student who has paid ancillary fees as part of their academic program, “Member”
+              refers to those who have a full fitness centre membership.</feeNote>
+        <feeNote>To pay your membership fee, visit the Hart House Information Hub (Main Desk) located on the main floor and
+            inform a staff member that you want to pay for membership to "Hart House Chamber Strings".</feeNote>
+    </newMembers>
+    <members>
+        <currentYear>2019 - 2020</currentYear>
+    </members>
+    <executive>
+        <note>The executive team is formed by Hart House Chamber Strings members who volunteer their time to its logistics and administration. The executive committee is usually formed in April, after the final concert. Here is the current executive team for the 2020-2021 season:</note>
+        <role>
+            <position>President</position>
+            <name>Ting Xiong</name>
+        </role>
+        <role>
+            <position>Vice-President</position>
+            <name>Ziyan Chen</name>
+        </role>
+        <role>
+            <position>Treasurer</position>
+            <name>Nicole Ying Xi Lim</name>
+        </role>
+        <role>
+            <position>Communications Officer</position>
+            <name>Leanna Chan</name>
+        </role>
+        <role>
+            <position>Events Coordinator</position>
+            <name>Tessa Prasuhn</name>
+        </role>
+        <role>
+            <position>Librarian</position>
+            <name>Michael Betlej</name>
+        </role>
+        <role>
+            <position>Webmaster</position>
+            <name>Aidan Dempster</name>
+        </role>
+        <role>
+            <position>1st Violin Section Head</position>
+            <name>Vincent Hung</name>
+        </role>
+        <role>
+            <position>2nd Violin Section Head</position>
+            <name>Aidan Dempster</name>
+        </role>
+        <role>
+            <position>Viola Section Head</position>
+            <name></name>
+        </role>
+        <role>
+            <position>Cello and Bass Section Head</position>
+            <name>Alexander Daigle</name>
+        </role>
+    </executive>
+</members>

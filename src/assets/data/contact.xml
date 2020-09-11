@@ -1,0 +1,29 @@
+<contacts>
+    <positions>
+        <position>
+            <positionName>First Violin Section Head</positionName>
+            <email>chamberstrings+firstviolin@gmail.com</email>
+        </position>
+        <position>
+            <positionName>Second Violin Section Head</positionName>
+            <email>chamberstrings+secondviolin@gmail.com</email>
+        </position>
+        <position>
+            <positionName>Viola Section Head</positionName>
+            <email>chamberstrings+viola@gmail.com</email>
+        </position>
+        <position>
+            <positionName>Cello and Bass Section Head</positionName>
+            <email>chamberstrings+cello@gmail.com</email>
+        </position>
+        <position>
+            <positionName>Alumni Relations</positionName>
+            <email>chamberstrings+alumni@gmail.com</email>
+        </position>
+    </positions>
+    <fullOrchestraInfo>
+        <email>chamberstrings@gmail.com</email>
+        <phoneNumber>1(234)555-1337</phoneNumber>
+        <facebook>https://www.facebook.com/groups/8917508505/</facebook>
+    </fullOrchestraInfo>
+</contacts>

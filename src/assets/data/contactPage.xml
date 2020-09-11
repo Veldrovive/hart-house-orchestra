@@ -1,0 +1,33 @@
+<contactPage>
+    <contact>
+        <point><name>General Inquiries</name><email>chamberstrings@gmail.com</email></point>
+    </contact>
+    <contact>
+        <point><name>Alumni/Non-student</name><email>chamberstrings+alumni@gmail.com</email></point>
+        <note>If you are interested in joining the Hart House Chamber Strings and are an University of Toronto alumni, U of T staff, or a community member, please direct your questions to this email address.</note>
+    </contact>
+    <contact>
+        <point><name>Contact a Section Leader</name></point>
+    </contact>
+    <contact>
+        <point><name>Violin I</name><email>chamberstrings+firstviolin@gmail.com</email></point>
+        <point><name>Violin II</name><email>chamberstrings+secondviolin@gmail.com</email></point>
+        <note>Violinists who are interested in joining the Chamber Strings or are already a member can contact this email address if you have any questions or would like to report an absence.</note>
+    </contact>
+    <contact>
+        <point><name>Viola</name><email>chamberstrings+viola@gmail.com</email></point>
+        <note>Violists who are interested in joining the Chamber Strings or are already a member can contact this email address if you have any questions or would like to report an absence.</note>
+    </contact>
+    <contact>
+        <point><name>Cello</name><email>chamberstrings+cello@gmail.com</email></point>
+        <note>Cellists who are interested in joining the Chamber Strings or are already a member can contact this email address if you have any questions or would like to report an absence.</note>
+    </contact>
+    <contact>
+        <point><name>Bass</name><email>chamberstrings+bass@gmail.com</email></point>
+        <note>Bassists who are interested in joining the Chamber Strings or are already a member can contact this email address if you have any questions or would like to report an absence.</note>
+    </contact>
+    <contact>
+        <point><name>Social Media</name></point>
+        <note><![CDATA[Facebook: <a href="https://www.facebook.com/groups/8917508505/">Click here and join us on Facebook</a>]]></note>
+    </contact>
+</contactPage>

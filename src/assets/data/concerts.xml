@@ -1,0 +1,164 @@
+<concerts>
+    <next>
+        <year>
+            <label>2020 - 2021</label>
+            <note>All concerts will be held at 7pm in the Great Hall at Hart House.</note>
+            <!-- <concert>
+                <name></name>
+                <date></date>
+                <note></note>
+                <piece>
+                    <name></name>
+                    <composer></composer>
+                    <arranger></arranger>
+                </piece>
+            </concert> -->
+        </year>
+    </next>
+    <previous>
+        <year>
+            <label>2019 - 2020</label>
+            <concert>
+                <name>Winter Concert</name>
+                <date>Saturday, November 30, 2019</date>
+                <piece>
+                    <name>String Symphony No. 3 in E</name>
+                    <composer>Mendelssohn</composer>
+                </piece>
+                <piece>
+                    <name>Alleluia (from Exultate, jubilate, KV 165)</name>
+                    <composer>Mozart</composer>
+                </piece>
+                <piece>
+                    <name>March Of The Toys (from Babes In Toyland)</name>
+                    <composer>Victor Herbert</composer>
+                </piece>
+                <piece>
+                    <name>Concerto for Strings in G+, RV 151</name>
+                    <composer>Vivaldi</composer>
+                </piece>
+                <piece>
+                    <name>Riu, Riu, Chiu (Traditional)</name>
+                    <arranger>David Marlatt</arranger>
+                </piece>
+                <piece>
+                    <name>Two Nordic Melodies (In Folk Style and Cow-call &amp; Peasant Dance)</name>
+                    <composer>Grieg</composer>
+                </piece>
+                <piece>
+                    <name>Nessun Dorma</name>
+                    <composer>Giacomo Puccini</composer>
+                </piece>
+                <piece>
+                    <name>The Wizard Of Oz</name>
+                    <composer>Harold Arlen</composer>
+                </piece>
+                <piece>
+                    <name>Sleigh Ride</name>
+                    <composer>Leroy Anderson</composer>
+                </piece>
+            </concert>
+            <concert>
+                <name>Spring Concert</name>
+                <date>Saturday, April 4, 2020</date>
+                <note>Our Spring Concert was cancelled due to university closure.</note>
+            </concert>
+        </year>
+        <year>
+            <label>2018 - 2019</label>
+            <concert>
+                <name>Winter Concert</name>
+                <date>Saturday, December 1, 2018</date>
+                <piece>
+                    <name>Suite in F for Strings (Lady Radnor's Suite)</name>
+                    <composer>Parry</composer>
+                </piece>
+                <piece>
+                    <name>Elegy for String Orchestra</name>
+                    <composer>Tchaikovsky</composer>
+                </piece>
+                <piece>
+                    <name>Bass Dance</name>
+                    <composer>Susato</composer>
+                </piece>
+                <piece>
+                    <name>October</name>
+                    <composer>Whitacre</composer>
+                </piece>
+                <piece>
+                    <name>Star Wars Heroes (arrangement) original score</name>
+                    <composer>Williams</composer>
+                </piece>
+                <piece>
+                    <name>Concerto Grosso in G Minor Op. 6, No. 8</name>
+                    <composer>Corelli</composer>
+                </piece>
+                <piece>
+                    <name>A Festival of Lights</name>
+                    <composer>Caputo</composer>
+                </piece>
+                <piece>
+                    <name>A Christmas Festival</name>
+                    <composer>Anderson</composer>
+                </piece>
+            </concert>
+            <concert>
+                <name>Spring Concert</name>
+                <date>Saturday, March 30, 2019</date>
+                <piece>
+                    <name>Symphony No. 1 in Bb Major</name>
+                    <composer>Boyce</composer>
+                </piece>
+                <piece>
+                    <name>Molly On The Shore (Irish Reel)</name>
+                    <composer>Grainger</composer>
+                </piece>
+                <piece>
+                    <name>LEHÁR</name>
+                </piece>
+                <piece>
+                    <name>Themes from “The Merry Widow”</name>
+                    <composer>Lehár</composer>
+                </piece>
+                <piece>
+                    <name>Directions North</name>
+                    <composer>Coakley</composer>
+                </piece>
+                <piece>
+                    <name>A Little Stream (Xiao He Tang Shui) (Traditional)</name>
+                </piece>
+                <piece>
+                    <name>Fantasía Española</name>
+                    <composer>Newbold</composer>
+                </piece>
+                <piece>
+                    <name>Czárdás</name>
+                    <composer>Monti</composer>
+                </piece>
+                <piece>
+                    <name>Holberg Suite, Op. 40</name>
+                    <composer>Grieg</composer>
+                </piece>
+            </concert>
+        </year>
+        <!-- <year>
+            <label></label>
+            <note></note>
+            <concert>
+                <name></name>
+                <date></date>
+                <note></note>
+                <piece>
+                    <name></name>
+                    <composer></composer>
+                    <arranger></arranger>
+                </piece>
+                <piece>
+                    <name></name>
+                    <composer></composer>
+                    <arranger></arranger>
+                </piece>
+            </concert>
+        </year> -->
+    </previous>
+</concerts>
