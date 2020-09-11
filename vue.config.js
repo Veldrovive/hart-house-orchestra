@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: 'hart-house-orchestra',
+    publicPath: '/hart-house-orchestra/',
     configureWebpack: {
         module: {
             rules: [
