@@ -24,6 +24,14 @@
           <td><font-awesome-icon icon="phone-alt" /></td>
           <td><a :href='`tel:${phoneNumber}`'>{{ phoneNumber }}</a></td>
         </tr>
+        <tr v-if='instagramLink'>
+          <td>
+            <a :href='instagramLink'><font-awesome-icon :icon="['fab', 'instagram']" /></a>
+          </td>
+          <td>
+            <a :href='instagramLink'>Hart House Chamber Strings</a>
+          </td>
+        </tr>
         <tr v-if='facebookLink'>
           <td>
             <a :href='facebookLink'><font-awesome-icon :icon="['fab', 'facebook-f']" /></a>
@@ -75,6 +83,9 @@ export default {
     },
     facebookLink () {
       return this.orchInfo.facebook ? this.orchInfo.facebook[0] : null
+    },
+    instagramLink () {
+      return this.orchInfo.instagram ? this.orchInfo.instagram[0] : null
     }
   }
 }
