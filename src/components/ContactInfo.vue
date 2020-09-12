@@ -16,16 +16,16 @@
     <hr>
     <div class='contact-info'>
       <table>
-        <tr>
+        <tr v-if='mainEmail'>
           <td><font-awesome-icon icon="envelope" /></td>
           <td><a :href='`mailto:${mainEmail}`' target='_blank'>{{ mainEmail }}</a></td>
         </tr>
-        <tr>
+        <tr v-if='phoneNumber'>
           <td><font-awesome-icon icon="phone-alt" /></td>
-          <td>{{ phoneNumber }}</td>
+          <td><a :href='`tel:${phoneNumber}`'>{{ phoneNumber }}</a></td>
         </tr>
-        <tr>
-          <td colspan='1'>
+        <tr v-if='facebookLink'>
+          <td>
             <a :href='facebookLink'><font-awesome-icon :icon="['fab', 'facebook-f']" /></a>
           </td>
           <td>
@@ -68,13 +68,13 @@ export default {
       return this.xml.contacts.fullOrchestraInfo[0]
     },
     mainEmail () {
-      return this.orchInfo.email[0]
+      return this.orchInfo.email ? this.orchInfo.email[0] : null
     },
     phoneNumber () {
-      return this.orchInfo.phoneNumber[0]
+      return this.orchInfo.phoneNumber ? this.orchInfo.phoneNumber[0] : null
     },
     facebookLink () {
-      return this.orchInfo.facebook[0]
+      return this.orchInfo.facebook ? this.orchInfo.facebook[0] : null
     }
   }
 }
